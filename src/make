@@ -32,3 +32,7 @@ sudo apt-get install unixodbc-dev
 sudo apt-get install python3-dev
 
 sudo -H python3 -m pip install pyodbc
+
+sudo -H python3 -m pip install pandas
+
+sudo -H python3 -m pip install ConfigParser
