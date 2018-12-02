@@ -1,3 +1,4 @@
 #Configuration files
 config
 settings.json
+__pycache__/
